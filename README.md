@@ -15,7 +15,7 @@ Interactive dashboard built using Power BI to analyze call center performance an
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
