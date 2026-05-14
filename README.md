@@ -10,6 +10,7 @@ Interactive dashboard built using Power BI to analyze call center performance an
 - CSV Dataset
 - Power Query
 - DAX
+- Data Modeling
 
 ---
 
