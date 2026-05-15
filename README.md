@@ -57,7 +57,7 @@ Interactive dashboard built using Power BI to analyze call center performance an
 <h2>🌐 Live Dashboard</h2>
 
 <p align="center">
-  <a href="https://app.powerbi.com/links/Fjq2Kn2imK?ctid=aec2484c-15e6-4c51-84d7-830de7d04ac7&pbi_source=linkShare" target="_blank">
+  <a href="https://app.powerbi.com/reportEmbed?reportId=b7d1a2d7-5f43-48ad-9210-598aa2584991&autoAuth=true&ctid=aec2484c-15e6-4c51-84d7-830de7d04ac7" target="_blank">
     <img src="https://img.shields.io/badge/View-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   </a>
 </p>
